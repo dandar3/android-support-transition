@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="android.support.transition"
+    package="android.support.transition" 
     android:versionCode="2500"
     android:versionName="25.0.0">
 

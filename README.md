@@ -8,7 +8,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4/tree/25.0.0)
 
 **References:**
-- https://developer.android.com/topic/libraries/support-library/revisions.html
+- https://developer.android.com/topic/libraries/support-library/revisions.html#rev25-0-0
 - https://developer.android.com/topic/libraries/support-library/features.html#transition
 
 **SVN checkout:**
