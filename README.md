@@ -1,15 +1,15 @@
 ## android-support-transition
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/support-transition/25.0.0/support-transition-25.0.0.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/transition/25.0.0/transition-25.0.0.aar`
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/support-v4](https://github.com/dandar3/support-v4/tree/25.0.0)
+- [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4/tree/25.0.0)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
-- https://developer.android.com/topic/libraries/support-library/features.html#v4
+- https://developer.android.com/topic/libraries/support-library/features.html#transition
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
