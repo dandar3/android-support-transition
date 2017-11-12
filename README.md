@@ -9,7 +9,7 @@ https://maven.google.com/com/android/support/transition/27.0.0/transition-27.0.0
 - [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat/tree/27.0.0)
 
 **References:**
-- https://developer.android.com/topic/libraries/support-library/revisions.html#27-0-0
+- https://developer.android.com/topic/libraries/support-library/revisions.html#27.0.0
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
